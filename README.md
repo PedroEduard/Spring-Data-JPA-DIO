@@ -80,7 +80,7 @@ Indica qual é o lado inverso ou não dominante da relação.
     <li><a href="https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.repositories">Spring Data JPA - Reference Documentation</a></li>
 </ul>
 
-
+<h3>Se você nao  quiser utilizar o MYSQL de uma olhada  na documentacão e dependencias do  spring boot para assim  estar alterando a dependencia do MYSQL pelo  postegresSQL no arquivo pom.xml </h3>
 ------------
 
 Aulas Disponibilizado na <a href="https://web.dio.me/lab/conhecendo-spring-data-jpa-na-pratica-com-java/learning/0dddfc5e-5f2a-429c-a217-18a0627f7b55">Digital Innovation One</a>
